@@ -132,8 +132,8 @@ input, select, textarea {
 	}
 
 	p {
-		margin-top: 1em ;
-  		margin-bottom: 1em ;
+		margin-top: 0.1em ;
+  		margin-bottom: 0.1em ;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1984,7 +1984,7 @@ input, select, textarea {
 	.box {
 		border-radius: 0.35em;
 		border: solid 2px #efefef;
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 		padding: 1.5em;
 	}
 
