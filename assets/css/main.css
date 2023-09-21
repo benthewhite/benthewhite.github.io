@@ -132,7 +132,8 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 -1em 0;
+		margin-top: 1em ;
+  		margin-bottom: 1em ;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
