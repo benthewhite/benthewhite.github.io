@@ -133,6 +133,7 @@ element {
 	strong, b {
 		color: #787878;
 		font-weight: 400;
+		font-style: bold;
 	}
 
 	em, i {
