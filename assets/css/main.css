@@ -73,7 +73,7 @@ input, select, textarea {
 	appearance: none;
 }
 element {
-    opacity: 0;
+    opacity: 1;
     // CSS property
 }
 
