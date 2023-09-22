@@ -72,6 +72,10 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+element {
+    opacity: 0;
+    // CSS property
+}
 
 /* Basic */
 
