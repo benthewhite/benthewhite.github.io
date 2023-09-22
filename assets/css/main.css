@@ -72,6 +72,14 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+jc {
+    display: flex;
+    justify-content: space-between;
+}
+element {
+    opacity: 1;
+    // CSS property
+}
 
 /* Basic */
 
